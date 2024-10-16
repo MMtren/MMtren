@@ -57,7 +57,10 @@
 
 ###
 
-![](https://leetcode-badge-sage.vercel.app/badge/MiloszM?theme=neutral)
+<div align="center">
+  ![](https://leetcode-badge-sage.vercel.app/badge/MiloszM?theme=neutral)
+</div>
+
 
 ###
 
