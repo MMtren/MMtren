@@ -57,7 +57,7 @@
 
 ###
 
-![](https://leetcard.jacoblin.cool/leetcode/MiloszM?site=cn)
+![](https://leetcode-badge-sage.vercel.app/badge/MiloszM?theme=neutral)
 
 ###
 
