@@ -60,7 +60,11 @@
 
 ###
 
-<img src="https://leetcode-badge-sage.vercel.app/badge/MiloszM?theme=light" align="right"/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mi%C5%82osz-majchrowski-230a07259/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
