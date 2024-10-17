@@ -67,10 +67,6 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
 <h2 align="left">Other media profiles</h2>
 
 
