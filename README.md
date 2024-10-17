@@ -60,8 +60,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=MiloszM&animated=true" alt="LeetCode Badges" align="left"/>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=MiloszM&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/>
+    <h2>hhhhhh</h2>
 </div>
 
 ###
