@@ -58,15 +58,11 @@
 ###
 
 <div align="center">
-  <a
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=MiloszM&animated=true" alt="LeetCode Badges"/>
-  </a>
 </div>
 
  <div align="center">
-  <a
   <img src="https://leetcode-badge-sage.vercel.app/badge/MiloszM?theme=light"/>
-  </a>
 </div>
 
 
