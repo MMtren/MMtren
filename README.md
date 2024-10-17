@@ -56,18 +56,18 @@
 </div>
 
 ###
-<h2 align="left">asdasdasd</h2>
+<h2 align="left"></h2>
 
 ###
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=MiloszM&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/>
-    <h2>hhhhhh</h2>
+    <img src="https://leetcode-badge-sage.vercel.app/badge/MiloszM?theme=light" style="margin-right: 10px;"/>
+    <h2></h2>
 </div>
 
 ###
 
-<h2 align="left">hhhhhh</h2>
 
 ###
 
