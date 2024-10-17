@@ -63,9 +63,9 @@
 </div>
 
 ###
-
+<div align="center">
 <h2 align="left">Other media profiles</h2>
-
+</div>
 ###
 
 <div align="left">
