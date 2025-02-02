@@ -12,10 +12,10 @@
 
 <p align="left">📚 Education, Polish-Japanese Academy of Information Technology(2019-2024)
   <br>
-  <br>Engineering studies at the Faculty of Computer Science, specialization: Multimedia and Game Programming
+  <br>Bachelor of Science in Computer Science, Game Development Specialization
   <br>-Diploma thesis creating a roguelike game using the Unity engine
   <br>
-  <br>Master's studies at the Faculty of Intelligent Systems, specialization: Data science
+  <br>Master of Science in Computer Science, Data Science Specialization
   <br>-Diploma thesis: the use of machine learning algorithms in solving the problem of malware detection</p>
 
 ###
