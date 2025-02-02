@@ -49,8 +49,8 @@
   <a href="https://www.linkedin.com/in/mi%C5%82osz-majchrowski-230a07259/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mi%C5%82osz-majchrowski-230a07259/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://profiles.datawars.io/miloszmajchrowski11" target="_blank">
+    <img src="https://user-images.githubusercontent.com/872296/212477556-9dc6ce15-75c2-444d-b56e-54e5b3cff413.png" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
